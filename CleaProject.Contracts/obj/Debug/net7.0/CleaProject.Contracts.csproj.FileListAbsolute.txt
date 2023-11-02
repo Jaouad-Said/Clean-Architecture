@@ -1,0 +1,12 @@
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\bin\Debug\net7.0\CleaProject.Contracts.deps.json
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\bin\Debug\net7.0\CleaProject.Contracts.dll
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\bin\Debug\net7.0\CleaProject.Contracts.pdb
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\obj\Debug\net7.0\CleaProject.Contracts.csproj.AssemblyReference.cache
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\obj\Debug\net7.0\CleaProject.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\obj\Debug\net7.0\CleaProject.Contracts.AssemblyInfoInputs.cache
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\obj\Debug\net7.0\CleaProject.Contracts.AssemblyInfo.cs
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\obj\Debug\net7.0\CleaProject.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\obj\Debug\net7.0\CleaProject.Contracts.dll
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\obj\Debug\net7.0\refint\CleaProject.Contracts.dll
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\obj\Debug\net7.0\CleaProject.Contracts.pdb
+C:\Users\Said\desktop\CleanProject\CleaProject.Contracts\obj\Debug\net7.0\ref\CleaProject.Contracts.dll

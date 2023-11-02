@@ -1,0 +1,15 @@
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\bin\Debug\net7.0\CleaProject.Application.deps.json
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\bin\Debug\net7.0\CleaProject.Application.dll
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\bin\Debug\net7.0\CleaProject.Application.pdb
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\CleaProject.Application.csproj.AssemblyReference.cache
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\CleaProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\CleaProject.Application.AssemblyInfoInputs.cache
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\CleaProject.Application.AssemblyInfo.cs
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\CleaProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\CleaProject.Application.dll
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\refint\CleaProject.Application.dll
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\CleaProject.Application.pdb
+C:\Users\Said\desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\ref\CleaProject.Application.dll
+C:\Users\Said\Desktop\CleanProject\CleaProject.Application\bin\Debug\net7.0\CleaProject.Domain.dll
+C:\Users\Said\Desktop\CleanProject\CleaProject.Application\bin\Debug\net7.0\CleaProject.Domain.pdb
+C:\Users\Said\Desktop\CleanProject\CleaProject.Application\obj\Debug\net7.0\CleaProject.Application.csproj.CopyComplete

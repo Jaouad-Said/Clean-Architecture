@@ -1,0 +1,17 @@
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\bin\Debug\net7.0\CleaProject.Infrastructure.deps.json
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\bin\Debug\net7.0\CleaProject.Infrastructure.dll
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\bin\Debug\net7.0\CleaProject.Infrastructure.pdb
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\CleaProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\CleaProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\CleaProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\CleaProject.Infrastructure.AssemblyInfo.cs
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\CleaProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\CleaProject.Infrastructure.dll
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\refint\CleaProject.Infrastructure.dll
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\CleaProject.Infrastructure.pdb
+C:\Users\Said\desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\ref\CleaProject.Infrastructure.dll
+C:\Users\Said\Desktop\CleanProject\CleaProject.Infrastructure\bin\Debug\net7.0\CleaProject.Application.dll
+C:\Users\Said\Desktop\CleanProject\CleaProject.Infrastructure\bin\Debug\net7.0\CleaProject.Domain.dll
+C:\Users\Said\Desktop\CleanProject\CleaProject.Infrastructure\bin\Debug\net7.0\CleaProject.Application.pdb
+C:\Users\Said\Desktop\CleanProject\CleaProject.Infrastructure\bin\Debug\net7.0\CleaProject.Domain.pdb
+C:\Users\Said\Desktop\CleanProject\CleaProject.Infrastructure\obj\Debug\net7.0\CleaProject.Infrastructure.csproj.CopyComplete

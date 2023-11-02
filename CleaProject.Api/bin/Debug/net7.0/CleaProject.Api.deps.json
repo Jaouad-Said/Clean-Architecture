@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CleaProject.Api/1.0.0": {
+        "dependencies": {
+          "CleaProject.Application": "1.0.0",
+          "CleaProject.Contracts": "1.0.0",
+          "CleaProject.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "CleaProject.Api.dll": {}
+        }
+      },
+      "CleaProject.Application/1.0.0": {
+        "dependencies": {
+          "CleaProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleaProject.Application.dll": {}
+        }
+      },
+      "CleaProject.Contracts/1.0.0": {
+        "runtime": {
+          "CleaProject.Contracts.dll": {}
+        }
+      },
+      "CleaProject.Domain/1.0.0": {
+        "runtime": {
+          "CleaProject.Domain.dll": {}
+        }
+      },
+      "CleaProject.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CleaProject.Application": "1.0.0"
+        },
+        "runtime": {
+          "CleaProject.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleaProject.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleaProject.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleaProject.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleaProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleaProject.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

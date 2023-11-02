@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CleaProject.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CleaProject.Application": "1.0.0"
+        },
+        "runtime": {
+          "CleaProject.Infrastructure.dll": {}
+        }
+      },
+      "CleaProject.Application/1.0.0": {
+        "dependencies": {
+          "CleaProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleaProject.Application.dll": {}
+        }
+      },
+      "CleaProject.Domain/1.0.0": {
+        "runtime": {
+          "CleaProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleaProject.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleaProject.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleaProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

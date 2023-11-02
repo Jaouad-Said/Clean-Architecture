@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CleaProject.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CleaProject.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleaProject.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleaProject.Application.dll": {}
+        }
+      },
+      "CleaProject.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CleaProject.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleaProject.Contracts.dll": {}
+        }
+      },
+      "CleaProject.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CleaProject.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleaProject.Domain.dll": {}
+        }
+      },
+      "CleaProject.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CleaProject.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleaProject.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleaProject.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleaProject.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleaProject.Application/CleaProject.Application.csproj",
+      "msbuildProject": "../CleaProject.Application/CleaProject.Application.csproj"
+    },
+    "CleaProject.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../CleaProject.Contracts/CleaProject.Contracts.csproj",
+      "msbuildProject": "../CleaProject.Contracts/CleaProject.Contracts.csproj"
+    },
+    "CleaProject.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CleaProject.Domain/CleaProject.Domain.csproj",
+      "msbuildProject": "../CleaProject.Domain/CleaProject.Domain.csproj"
+    },
+    "CleaProject.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CleaProject.Infrastructure/CleaProject.Infrastructure.csproj",
+      "msbuildProject": "../CleaProject.Infrastructure/CleaProject.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CleaProject.Application >= 1.0.0",
+      "CleaProject.Contracts >= 1.0.0",
+      "CleaProject.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Said\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Api\\CleaProject.Api.csproj",
+      "projectName": "CleaProject.Api",
+      "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Api\\CleaProject.Api.csproj",
+      "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Said\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\CleaProject.Application.csproj": {
+              "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\CleaProject.Application.csproj"
+            },
+            "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Contracts\\CleaProject.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Contracts\\CleaProject.Contracts.csproj"
+            },
+            "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
