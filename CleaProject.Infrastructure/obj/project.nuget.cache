@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ergCIMXs/SS0cZMWr1ALxGrxCjdhnRLX3LT6XHKUX9Jemf1Bmm0J8tUt++SfkhMeKwigPR5DHePSsyrGjQcYFA==",
+  "dgSpecHash": "MBVY8kBZsqbmb3jP+0mk4UF6zK8PCEVqOn26tDibzna9mMu60NoqE2DzbaBEbFMxSYagnXk0sOcBNwl+ntjcPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Said\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
