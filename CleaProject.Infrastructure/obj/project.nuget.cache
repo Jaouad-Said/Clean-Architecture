@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MBVY8kBZsqbmb3jP+0mk4UF6zK8PCEVqOn26tDibzna9mMu60NoqE2DzbaBEbFMxSYagnXk0sOcBNwl+ntjcPA==",
+  "dgSpecHash": "4+BUrnjWWkCmeaBxS3k5c92E8wcI1lwcaXbwalU77mc1r/zAnlvZhURzVzVuH1MhgFL+RC2sveRwA2vi9dg5lA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Said\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\Said\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.3\\microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.3\\microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.3\\microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.3\\microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }

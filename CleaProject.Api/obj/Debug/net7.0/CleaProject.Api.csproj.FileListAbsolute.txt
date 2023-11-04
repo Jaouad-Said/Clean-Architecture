@@ -33,3 +33,8 @@ C:\Users\Said\Desktop\CleanProject\CleaProject.Api\bin\Debug\net7.0\CleaProject.
 C:\Users\Said\Desktop\CleanProject\CleaProject.Api\bin\Debug\net7.0\CleaProject.Application.pdb
 C:\Users\Said\Desktop\CleanProject\CleaProject.Api\bin\Debug\net7.0\CleaProject.Infrastructure.pdb
 C:\Users\Said\Desktop\CleanProject\CleaProject.Api\bin\Debug\net7.0\CleaProject.Domain.pdb
+C:\Users\Said\Desktop\CleanProject\CleaProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Said\Desktop\CleanProject\CleaProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Said\Desktop\CleanProject\CleaProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Said\Desktop\CleanProject\CleaProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Said\Desktop\CleanProject\CleaProject.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
