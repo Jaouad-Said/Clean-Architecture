@@ -1,3 +1,4 @@
+using CleanProject.Api.Filters;
 using CleanProject.Application.Services.Authentication;
 using CleanProject.Contracts.Authentication;
 using Microsoft.AspNetCore.Mvc;
