@@ -1,6 +1,10 @@
+using CleanProject.Application.Common.Errors;
 using CleanProject.Application.Common.interfaces.Authentication;
 using CleanProject.Application.Common.interfaces.Persistence;
+using CleanProject.Domain.Common.Errors;
 using CleanProject.Domain.Entities;
+using ErrorOr;
+using FluentResults;
 
 namespace CleanProject.Application.Services.Authentication;
 
@@ -14,18 +18,18 @@ public class AuthenticationService : IAuthenticationService
         _jwtTokenGenerator = jwtTokenGenerator;
         _userRepository = userRepository;
     }
-    public AuthenticationResult Login(string email, string password)
+    public ErrorOr<AuthenticationResult> Login(string email, string password)
     {
         // 1- Validate the user exists
         if (_userRepository.GetUserByEmail(email) is not User user)
         {
-            throw new Exception("User with given email does not exist!!");
+            return Errors.Authentication.InvalidCredentials;
         }
 
         // 2- Validate the password is correct
         if (user.Password != password)
         {
-            throw new Exception("Invalid password!!");
+            return new[] { Errors.Authentication.InvalidCredentials };
         }
 
         // 3. Create JWT Token
@@ -37,12 +41,12 @@ public class AuthenticationService : IAuthenticationService
         );
     }
 
-    public AuthenticationResult Register(string firstName, string lastName, string email, string password)
+    public ErrorOr<AuthenticationResult> Register(string firstName, string lastName, string email, string password)
     {
         // 1- Validate the user doesn't exist
         if (_userRepository.GetUserByEmail(email) is not null)
         {
-            throw new Exception("User with email already exists!!");
+            return Errors.User.DuplicateEmail;
         }
 
         // 2- Create user (generate unique ID) & Presist to DB
