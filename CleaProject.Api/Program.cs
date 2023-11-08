@@ -1,6 +1,8 @@
+using CleanProject.Api.Errors;
 using CleanProject.Api.Filters;
 using CleanProject.Application;
 using CleanProject.Infrastructure;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
@@ -10,6 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 
     // builder.Services.AddControllers(options => options.Filters.Add<ErrorHandlingFilterAttribute>());
     builder.Services.AddControllers();
+
+    builder.Services.AddSingleton<ProblemDetailsFactory, CleanProjectProblemDetailsFactory>();
 }
 
 var app = builder.Build();
