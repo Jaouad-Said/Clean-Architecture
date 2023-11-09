@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dG4E7ZNRbmnsIy3wgfbo9O1pGllXAhPDxbeXPydKNxrVzNWIHMyyCeNW8KRM7jjcyi/rMkHsSmlvhXwIGOMUYQ==",
+  "dgSpecHash": "KZO/fcIKt5ruOeOPIGMvrXL7LXnhlk2dh1J5EjkZmLFpSDp6vhtJ+pGPUOtAU17NdMAdZ847noLXK828yUTKgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\CleaProject.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\CleaProject.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Said\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iXkxBSjtOvo+MFAezYsw+Ud3vzLquGCLr3uKkduH0QSLx0H209S9sbhryb3GUEqrn7A9xYIQExXugZITHkRleQ==",
+  "dgSpecHash": "IbELofr3Qr1R1gjXEKzo4c5opPQrs1DRfYmW9cp68If8qF+4QaVAGoDfrUzFeGdw3kqlQerZL+LOn3rF4hYeLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Contracts\\CleaProject.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Contracts\\CleaProject.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

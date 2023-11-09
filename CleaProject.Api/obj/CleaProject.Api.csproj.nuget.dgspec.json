@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Api\\CleaProject.Api.csproj": {}
+    "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Api\\CleaProject.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Api\\CleaProject.Api.csproj": {
+    "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Api\\CleaProject.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Api\\CleaProject.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Api\\CleaProject.Api.csproj",
         "projectName": "CleaProject.Api",
-        "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Api\\CleaProject.Api.csproj",
+        "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Api\\CleaProject.Api.csproj",
         "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Api\\obj\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -36,14 +36,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\CleaProject.Application.csproj": {
-                "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\CleaProject.Application.csproj"
+              "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Application\\CleaProject.Application.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Application\\CleaProject.Application.csproj"
               },
-              "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Contracts\\CleaProject.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Contracts\\CleaProject.Contracts.csproj"
+              "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Contracts\\CleaProject.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Contracts\\CleaProject.Contracts.csproj"
               },
-              "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj"
+              "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\CleaProject.Application.csproj": {
+    "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Application\\CleaProject.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\CleaProject.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Application\\CleaProject.Application.csproj",
         "projectName": "CleaProject.Application",
-        "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\CleaProject.Application.csproj",
+        "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Application\\CleaProject.Application.csproj",
         "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\obj\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -112,8 +112,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\CleaProject.Domain.csproj": {
-                "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\CleaProject.Domain.csproj"
+              "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\CleaProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\CleaProject.Domain.csproj"
               }
             }
           }
@@ -128,6 +128,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[7.0.0, )"
@@ -161,14 +165,14 @@
         }
       }
     },
-    "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Contracts\\CleaProject.Contracts.csproj": {
+    "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Contracts\\CleaProject.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Contracts\\CleaProject.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Contracts\\CleaProject.Contracts.csproj",
         "projectName": "CleaProject.Contracts",
-        "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Contracts\\CleaProject.Contracts.csproj",
+        "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Contracts\\CleaProject.Contracts.csproj",
         "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -224,14 +228,14 @@
         }
       }
     },
-    "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\CleaProject.Domain.csproj": {
+    "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\CleaProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\CleaProject.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\CleaProject.Domain.csproj",
         "projectName": "CleaProject.Domain",
-        "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\CleaProject.Domain.csproj",
+        "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\CleaProject.Domain.csproj",
         "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -293,14 +297,14 @@
         }
       }
     },
-    "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj": {
+    "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj",
         "projectName": "CleaProject.Infrastructure",
-        "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -325,8 +329,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\CleaProject.Application.csproj": {
-                "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Application\\CleaProject.Application.csproj"
+              "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Application\\CleaProject.Application.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Application\\CleaProject.Application.csproj"
               }
             }
           }

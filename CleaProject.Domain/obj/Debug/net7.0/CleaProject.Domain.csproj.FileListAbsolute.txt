@@ -10,3 +10,15 @@ C:\Users\Said\desktop\CleanProject\CleaProject.Domain\obj\Debug\net7.0\CleaProje
 C:\Users\Said\desktop\CleanProject\CleaProject.Domain\obj\Debug\net7.0\refint\CleaProject.Domain.dll
 C:\Users\Said\desktop\CleanProject\CleaProject.Domain\obj\Debug\net7.0\CleaProject.Domain.pdb
 C:\Users\Said\desktop\CleanProject\CleaProject.Domain\obj\Debug\net7.0\ref\CleaProject.Domain.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\bin\Debug\net7.0\CleaProject.Domain.deps.json
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\bin\Debug\net7.0\CleaProject.Domain.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\bin\Debug\net7.0\CleaProject.Domain.pdb
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\obj\Debug\net7.0\CleaProject.Domain.csproj.AssemblyReference.cache
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\obj\Debug\net7.0\CleaProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\obj\Debug\net7.0\CleaProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\obj\Debug\net7.0\CleaProject.Domain.AssemblyInfo.cs
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\obj\Debug\net7.0\CleaProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\obj\Debug\net7.0\CleaProject.Domain.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\obj\Debug\net7.0\refint\CleaProject.Domain.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\obj\Debug\net7.0\CleaProject.Domain.pdb
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Domain\obj\Debug\net7.0\ref\CleaProject.Domain.dll

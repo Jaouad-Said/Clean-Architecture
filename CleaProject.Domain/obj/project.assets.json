@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\CleaProject.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\CleaProject.Domain.csproj",
       "projectName": "CleaProject.Domain",
-      "projectPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\CleaProject.Domain.csproj",
+      "projectPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\CleaProject.Domain.csproj",
       "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Said\\Desktop\\CleanProject\\CleaProject.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
