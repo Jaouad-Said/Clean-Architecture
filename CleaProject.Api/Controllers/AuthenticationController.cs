@@ -1,9 +1,8 @@
 using CleanProject.Application.Authentication.Commands.Register;
-using CleanProject.Application.Services.Authentication.Commands;
-using CleanProject.Application.Services.Authentication.Common;
-using CleanProject.Application.Services.Authentication.Queries;
+using CleanProject.Application.Authentication.Queries.Login;
 using CleanProject.Contracts.Authentication;
 using CleanProject.Domain.Common.Errors;
+using CleaProject.Application.Authentication.Common;
 using ErrorOr;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -13,9 +12,9 @@ namespace CleanProject.Api.Controllers;
 [Route("auth")]
 public class AuthenticationController : ApiController
 {
-    private readonly IMediator _mediator;
+    private readonly ISender _mediator;
 
-    public AuthenticationController(IMediator mediator)
+    public AuthenticationController(ISender mediator)
     {
         _mediator = mediator;
     }
@@ -37,11 +36,10 @@ public class AuthenticationController : ApiController
     }
 
     [HttpPost("login")]
-    public IActionResult Login(LoginRequest request)
+    public async Task<IActionResult> Login(LoginRequest request)
     {
-        var authResult = _authenticationQueyService.Login(
-            request.Email,
-            request.Password);
+        var query = new LoginQuery(request.Email, request.Password);
+        var authResult = await _mediator.Send(query);
 
         if (authResult.IsError && authResult.FirstError == Errors.Authentication.InvalidCredentials)
         {
@@ -59,10 +57,10 @@ public class AuthenticationController : ApiController
     private static AuthenticationResponse MapAuthResult(AuthenticationResult authResult)
     {
         return new AuthenticationResponse(
-                        authResult.user.Id,
-                        authResult.user.FirstName,
-                        authResult.user.LastName,
-                        authResult.user.Email,
+                        authResult.User.Id,
+                        authResult.User.FirstName,
+                        authResult.User.LastName,
+                        authResult.User.Email,
                         authResult.Token
                     );
     }

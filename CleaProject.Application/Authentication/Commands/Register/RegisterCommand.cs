@@ -1,4 +1,4 @@
-using CleanProject.Application.Services.Authentication.Common;
+using CleaProject.Application.Authentication.Common;
 using ErrorOr;
 using MediatR;
 

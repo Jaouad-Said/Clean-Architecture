@@ -1,10 +1,10 @@
 using CleanProject.Application.Common.interfaces.Authentication;
 using CleanProject.Application.Common.interfaces.Persistence;
-using CleanProject.Application.Services.Authentication.Common;
 using CleanProject.Domain.Entities;
 using CleanProject.Domain.Common.Errors;
 using ErrorOr;
 using MediatR;
+using CleaProject.Application.Authentication.Common;
 
 namespace CleanProject.Application.Authentication.Commands.Register;
 
@@ -19,7 +19,9 @@ public class RegisterCommandHandler : IRequestHandler<RegisterCommand, ErrorOr<A
         _userRepository = userRepository;
     }
 
-    public async Task<ErrorOr<AuthenticationResult>> Handle(RegisterCommand command, CancellationToken cancellationToken)
+    public async Task<ErrorOr<AuthenticationResult>> Handle(
+        RegisterCommand command,
+        CancellationToken cancellationToken)
     {
         // 1- Validate the user doesn't exist
         if (_userRepository.GetUserByEmail(command.Email) is not null)
