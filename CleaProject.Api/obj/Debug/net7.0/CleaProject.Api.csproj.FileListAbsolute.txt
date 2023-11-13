@@ -85,3 +85,6 @@ C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\obj\Debug\net7.0\ref\Cl
 C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\MediatR.dll
 C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\MediatR.Contracts.dll
 C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Mapster.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Mapster.Core.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Mapster.DependencyInjection.dll

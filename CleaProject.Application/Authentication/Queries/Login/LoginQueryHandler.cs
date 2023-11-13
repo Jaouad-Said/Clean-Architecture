@@ -4,7 +4,7 @@ using CleanProject.Domain.Entities;
 using CleanProject.Domain.Common.Errors;
 using ErrorOr;
 using MediatR;
-using CleaProject.Application.Authentication.Common;
+using CleanProject.Application.Authentication.Common;
 
 namespace CleanProject.Application.Authentication.Queries.Login;
 
@@ -21,6 +21,8 @@ public class LoginQueryHandler : IRequestHandler<LoginQuery, ErrorOr<Authenticat
 
     public async Task<ErrorOr<AuthenticationResult>> Handle(LoginQuery query, CancellationToken cancellationToken)
     {
+        await Task.CompletedTask;
+
         // 1- Validate the user exists
         if (_userRepository.GetUserByEmail(query.Email) is not User user)
         {

@@ -1,6 +1,6 @@
 using CleanProject.Domain.Entities;
 
-namespace CleaProject.Application.Authentication.Common;
+namespace CleanProject.Application.Authentication.Common;
 public record AuthenticationResult
 (
     User User,
