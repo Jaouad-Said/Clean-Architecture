@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "6/PIi2tnZKpGxBZd6RS46VxA/LUzIDztW6DcQQHA2OfB5jCacICwLDHN0pF/lGg5zUyWg+nTyJbWdhn4iedKfg==",
+  "dgSpecHash": "nUeGkOw3PVAeJorvhHjWV4S2a+C9hxDStSBOoSbFvk6pDC+fAtXtiShOc3zf/iQBBjOFakSn5WwDfGKDgLQeQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Api\\CleaProject.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Said\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
     "C:\\Users\\Said\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Said\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\Said\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\Said\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",

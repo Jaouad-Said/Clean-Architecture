@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "bzLkw1SCCD8OdiNTqmXSgGsEHrQ1P4iT8g5+TFY19HKxBrMffQYWl3v5GJD9E+I6teFGrmvLDUWmhzsYgOl8IA==",
+  "dgSpecHash": "OUSnlU6XuAIeyUN6mJ2IOCsFfKWCiSylIqt61gnjTdiKI/h6xm+t9ihsvDao1dAvaCV2oRJdfXYVweH4+l2d9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Said\\Desktop\\Clean-Architecture\\CleaProject.Infrastructure\\CleaProject.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Said\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
     "C:\\Users\\Said\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Said\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Said\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Said\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Said\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",

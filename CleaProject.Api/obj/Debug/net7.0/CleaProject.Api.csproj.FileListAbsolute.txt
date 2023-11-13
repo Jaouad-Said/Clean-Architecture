@@ -88,3 +88,7 @@ C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Mediat
 C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Mapster.dll
 C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Mapster.Core.dll
 C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Mapster.DependencyInjection.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\obj\Debug\net7.0\CleaProject.Api.MvcApplicationPartsAssemblyInfo.cs
