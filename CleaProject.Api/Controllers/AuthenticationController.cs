@@ -7,10 +7,12 @@ using ErrorOr;
 using MapsterMapper;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CleanProject.Api.Controllers;
 
 [Route("auth")]
+[AllowAnonymous]
 public class AuthenticationController : ApiController
 {
     private readonly ISender _mediator;

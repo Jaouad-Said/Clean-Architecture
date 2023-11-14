@@ -92,3 +92,6 @@ C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Fluent
 C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\obj\Debug\net7.0\CleaProject.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Said\Desktop\Clean-Architecture\CleaProject.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
